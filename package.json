@@ -17,5 +17,8 @@
     "leetcode"
   ],
   "author": "shellraining <shellRaining@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.7.2"
+  }
 }
