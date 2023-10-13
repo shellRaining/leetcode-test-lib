@@ -1,6 +1,6 @@
 {
   "name": "@shellraining/leetcode-test-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm package used to create LeetCode test cases.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
