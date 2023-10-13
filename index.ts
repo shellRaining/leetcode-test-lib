@@ -1,4 +1,4 @@
-import TreeNode from "./tree";
-import ListNode from "./list";
+import TreeNode from "./src/tree";
+import ListNode from "./src/list";
 
 export { TreeNode, ListNode };
